@@ -9,7 +9,7 @@
 | CUHK03(Detected) | 74.1 | 76.4 |
 | MSMT17 | 59.3 | 80.6 |
 ```text
-@ARTICLE{2018arXiv180401438W,
+@ARTICLE{
     author = {符进武，范自柱，石林瑞，郭心悦，黄祎婧},
     title = "{基于多尺度多粒度融合的行人重识别方法}",
     journal = {计算机工程},
